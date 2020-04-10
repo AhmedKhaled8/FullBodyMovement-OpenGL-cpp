@@ -354,3 +354,4 @@ Here are some result of our body.
 <img src="Images/Body/screenShot6.JPG" alt="image not found" width="400" height="400">
 <img src="Images/Body/screenShot7.JPG" alt="image not found" width="400" height="400">
 
+</p>
