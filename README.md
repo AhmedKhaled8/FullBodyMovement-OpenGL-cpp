@@ -346,7 +346,6 @@ The following table illustrates the movements for each part of the body and the 
 ### 6. Results
 Here are some result of our body.
 <p float="left">
-<<<<<<< HEAD
 <img src="Images/Body/screenShot1.JPG" alt="image not found" width="400" height="400"> 
 <img src="Images/Body/screenShot2.JPG" alt="image not found" width="400" height="400">
 <img src="Images/Body/screenShot3.JPG" alt="image not found" width="400" height="400">
@@ -354,13 +353,4 @@ Here are some result of our body.
 <img src="Images/Body/screenShot5.JPG" alt="image not found" width="400" height="400">
 <img src="Images/Body/screenShot6.JPG" alt="image not found" width="400" height="400">
 <img src="Images/Body/screenShot7.JPG" alt="image not found" width="400" height="400">
-</p>
-=======
-<img src="Images/screenShot1.JPG" alt="image not found" width="400" height="400"> 
-<img src="Images/screenShot2.JPG" alt="image not found" width="400" height="400">
-<img src="Images/screenShot3.JPG" alt="image not found" width="400" height="400">
-<img src="Images/screenShot4.JPG" alt="image not found" width="400" height="400">
-<img src="Images/screenShot5.JPG" alt="image not found" width="400" height="400">
-<img src="Images/screenShot6.JPG" alt="image not found" width="400" height="400">
-<img src="Images/screenShot7.JPG" alt="image not found" width="400" height="400">
-</p>
+
